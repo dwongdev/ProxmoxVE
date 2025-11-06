@@ -12,6 +12,17 @@ Exercise vigilance regarding copycat or coat-tailing sites that seek to exploit 
 
 ## 2025-11-06
 
+### 🚀 Updated Scripts
+
+  - #### 🐞 Bug Fixes
+
+    - Jotty hotfix: SSO_FALLBACK_LOCAL value [@vhsdream](https://github.com/vhsdream) ([#8907](https://github.com/community-scripts/ProxmoxVE/pull/8907))
+    - npm: add Debian version check to update script [@MickLesk](https://github.com/MickLesk) ([#8901](https://github.com/community-scripts/ProxmoxVE/pull/8901))
+
+  - #### ✨ New Features
+
+    - MongoDB: install script now use setup_mongodb [@MickLesk](https://github.com/MickLesk) ([#8897](https://github.com/community-scripts/ProxmoxVE/pull/8897))
+
 ## 2025-11-05
 
 ### 🚀 Updated Scripts
